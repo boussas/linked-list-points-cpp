@@ -1,6 +1,6 @@
 # Linked List of Points in C++
 
-A C++ project implementing a **linked list of 2D points** with full support for:
+A C++ project implementing a **linked list of 2D points** with support for:
 
 - Adding points
 - Deleting points
